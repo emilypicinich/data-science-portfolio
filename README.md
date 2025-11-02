@@ -1,4 +1,4 @@
-# Data Science Portfolio (GitHub Pages)
+# Data Science Portfolio
 
 This repository publishes my portfolio website using GitHub Pages.
 
