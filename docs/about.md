@@ -14,9 +14,9 @@
 <div class="container">
   <section class="section">
     <h1>About</h1>
-    <p>Short intro paragraph about you—your MSDS focus, strengths in forecasting, NLP, and translating analysis into action. Add 3–4 sentences that make your value obvious to hiring managers.</p>
+    <p>I’m a data scientist and retail operations professional with a passion for turning complex data into actionable insight. Currently pursuing my M.S. in Data Science at Bellevue University, I specialize in forecasting, machine learning, and data storytelling. My background in retail management taught me how to connect analytics to real-world outcomes—improving efficiency, understanding customers, and driving results that matter.</p>
     <ul>
-      <li><strong>Current:</strong> MS in Data Science at Bellevue University; Part-Time Manager at Vineyard Vines</li>
+      <li><strong>Current:</strong> MS in Data Science at Bellevue University; Manager at Vineyard Vines</li>
       <li><strong>Background:</strong> Retail operations leadership + economics</li>
       <li><strong>Toolkit:</strong> Python (pandas, scikit-learn, statsmodels), R, SQL, Tableau, GitHub</li>
     </ul>
