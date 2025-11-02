@@ -14,7 +14,7 @@
 <div class="container">
   <section class="section">
     <h1>About</h1>
-    <p>I’m a data scientist and retail operations professional with a passion for turning complex data into actionable insight. Currently pursuing my M.S. in Data Science at Bellevue University, I specialize in forecasting, machine learning, and data storytelling. My background in retail management taught me how to connect analytics to real-world outcomes—improving efficiency, understanding customers, and driving results that matter.</p>
+    <p>I’m a data scientist and retail operations professional with a passion for turning complex data into actionable insight. Currently pursuing my M.S. in Data Science at Bellevue University, I specialize in forecasting, machine learning, and data storytelling. My background in retail management taught me how to connect analytics to real-world outcomes by improving efficiency, understanding customers, and driving results that matter.</p>
     <ul>
       <li><strong>Current:</strong> MS in Data Science at Bellevue University; Manager at Vineyard Vines</li>
       <li><strong>Background:</strong> Retail operations leadership + economics</li>
