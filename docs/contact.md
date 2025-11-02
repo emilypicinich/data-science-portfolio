@@ -16,7 +16,7 @@
     <h1>Contact</h1>
     <p>Fastest ways to reach me:</p>
     <ul>
-      <li><a href="mailto:you@example.com">you@example.com</a></li>
+      <li><a href="mailto:emilypicinich@gmail.com">emilypicinich@gmail.com</a></li>
       <li><a href="https://www.linkedin.com/in/emilypicinich">LinkedIn</a></li>
       <li><a href="https://github.com/emilypicinich">GitHub</a></li>
     </ul>
