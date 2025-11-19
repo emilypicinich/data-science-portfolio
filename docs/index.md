@@ -34,4 +34,4 @@ I blend retail operations experience with modern data science to solve real busi
 
 - LinkedIn: https://www.linkedin.com/in/emilypicinich  
 - GitHub: https://github.com/emilypicinich  
-- Email: you@example.com
+- Email: emilypicinich@gmail.com
