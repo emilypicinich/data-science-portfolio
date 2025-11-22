@@ -1,0 +1,637 @@
+SessionID,UserID,Timestamp,PageType,DeviceType,Country,ReferralSource,TimeOnPage_seconds,ItemsInCart,Purchased
+session_4627,user_2139,2025-06-28 18:53:47,home,Desktop,Canada,Google,107,0,0
+session_716,user_1263,2025-06-15 20:09:35,home,Desktop,USA,Social Media,69,0,0
+session_1431,user_1200,2025-04-22 16:27:19,product_page,Tablet,Germany,Direct,136,5,0
+session_4833,user_1294,2025-01-16 12:40:34,product_page,Tablet,France,Email,85,0,0
+session_4203,user_1582,2025-02-01 08:00:49,confirmation,Tablet,Canada,Google,47,0,1
+session_3990,user_2781,2025-02-19 19:33:18,product_page,Desktop,UK,Email,112,3,0
+session_882,user_2444,2025-08-13 11:58:31,product_page,Tablet,India,Social Media,158,0,0
+session_2320,user_2331,2025-08-25 10:45:20,cart,Tablet,USA,Google,36,3,1
+session_4621,user_2889,2025-06-14 07:14:43,home,Desktop,Australia,Email,83,0,1
+session_3968,user_1723,2025-02-13 19:49:01,home,Tablet,France,Email,170,0,0
+session_252,user_2257,2025-07-26 01:28:59,confirmation,Mobile,Canada,Google,101,0,1
+session_3660,user_2705,2025-04-01 15:34:13,product_page,Tablet,Canada,Google,175,4,0
+session_3325,user_1976,2025-03-02 00:56:24,product_page,Desktop,UK,Google,80,1,1
+session_4971,user_1399,2025-03-19 23:52:56,home,Desktop,Germany,Social Media,101,0,1
+session_4226,user_1802,2025-01-04 17:26:09,product_page,Desktop,France,Google,34,0,0
+session_3958,user_1407,2025-01-24 00:22:30,product_page,Desktop,UK,Email,123,5,1
+session_2811,user_1085,2025-02-26 00:09:55,home,Desktop,Canada,Social Media,90,0,0
+session_3695,user_1900,2025-05-02 09:58:42,home,Tablet,USA,Google,117,0,0
+session_971,user_1959,2025-01-31 12:49:30,product_page,Desktop,USA,Google,161,0,0
+session_926,user_2652,2025-02-22 06:53:29,product_page,Mobile,India,Direct,103,3,0
+session_3465,user_1723,2025-02-16 09:56:16,product_page,Mobile,UK,Social Media,124,0,0
+session_2447,user_1837,2025-04-20 00:41:22,home,Mobile,UK,Google,52,0,0
+session_3735,user_2405,2025-06-14 12:01:28,home,Mobile,France,Direct,150,0,0
+session_3506,user_1934,2025-02-27 04:39:10,home,Desktop,India,Email,93,0,0
+session_1525,user_1473,2025-08-09 15:14:03,home,Mobile,Canada,Google,33,0,0
+session_3467,user_2028,2025-01-30 12:48:34,confirmation,Tablet,Germany,Email,169,0,1
+session_1731,user_2184,2025-06-24 21:11:37,product_page,Tablet,Australia,Email,44,4,0
+session_2284,user_1440,2025-02-27 21:40:56,home,Mobile,USA,Social Media,144,0,0
+session_2915,user_2796,2025-05-08 09:06:51,product_page,Mobile,France,Email,67,0,0
+session_1687,user_1509,2025-02-23 00:27:38,home,Mobile,India,Email,111,0,0
+session_2436,user_2957,2025-01-22 19:19:09,home,Mobile,France,Social Media,86,0,0
+session_1812,user_1134,2025-08-20 18:15:48,home,Mobile,Canada,Direct,111,0,0
+session_2372,user_2515,2025-06-21 21:41:12,checkout,Desktop,Germany,Email,59,1,1
+session_2181,user_2197,2025-03-19 01:10:53,product_page,Mobile,UK,Google,98,4,0
+session_2859,user_2473,2025-05-11 18:43:10,product_page,Mobile,Australia,Google,29,5,1
+session_2828,user_1482,2025-03-16 17:58:25,confirmation,Mobile,India,Social Media,75,0,1
+session_2531,user_1540,2025-06-08 15:41:21,home,Tablet,USA,Direct,131,0,1
+session_1636,user_2251,2025-03-07 06:12:13,cart,Desktop,USA,Email,137,4,1
+session_2572,user_1387,2025-05-12 10:39:09,checkout,Desktop,Australia,Email,88,5,1
+session_3259,user_2330,2025-03-17 00:05:56,home,Desktop,France,Social Media,145,0,1
+session_4281,user_1251,2025-02-11 18:02:49,home,Desktop,Germany,Google,100,0,1
+session_1840,user_2675,2025-08-07 12:44:48,home,Desktop,France,Email,69,0,0
+session_937,user_1076,2025-07-08 20:51:45,product_page,Mobile,UK,Social Media,157,1,0
+session_4074,user_2144,2025-06-15 01:58:02,product_page,Desktop,Germany,Social Media,110,0,1
+session_2258,user_2481,2025-02-16 20:28:13,cart,Desktop,UK,Direct,141,3,1
+session_1445,user_1012,2025-03-23 11:09:39,product_page,Desktop,UK,Social Media,131,0,0
+session_2025,user_2222,2025-02-19 00:07:02,home,Desktop,Germany,Email,80,0,0
+session_4003,user_2208,2025-02-03 01:59:55,product_page,Mobile,UK,Social Media,104,3,0
+session_3778,user_1032,2025-05-17 06:43:13,cart,Tablet,Germany,Social Media,47,3,1
+session_3923,user_2323,2025-03-04 22:30:38,product_page,Desktop,Australia,Direct,99,0,0
+session_352,user_1678,2025-03-21 02:24:09,confirmation,Desktop,India,Direct,16,0,1
+session_4054,user_2729,2025-05-27 22:56:03,home,Mobile,India,Google,131,0,0
+session_725,user_1369,2025-04-22 10:01:21,cart,Mobile,France,Social Media,79,5,1
+session_3915,user_2169,2025-06-19 04:29:00,product_page,Tablet,Australia,Google,87,3,0
+session_1486,user_1601,2025-05-10 06:34:21,product_page,Desktop,Germany,Direct,142,5,1
+session_4030,user_1790,2025-02-09 16:04:20,checkout,Mobile,India,Email,27,5,1
+session_1096,user_2861,2025-02-16 11:05:24,product_page,Tablet,France,Email,123,1,0
+session_3076,user_2342,2025-06-16 15:44:31,confirmation,Tablet,Canada,Direct,135,0,1
+session_1891,user_1209,2025-01-18 08:43:56,home,Desktop,Australia,Email,98,0,0
+session_4438,user_2193,2025-05-28 23:32:49,cart,Desktop,France,Social Media,148,4,0
+session_4614,user_1523,2025-04-30 12:16:10,checkout,Mobile,UK,Email,125,5,0
+session_4392,user_1620,2025-05-08 21:55:47,confirmation,Mobile,France,Direct,172,0,1
+session_3486,user_2860,2025-08-01 18:22:58,cart,Tablet,Canada,Email,51,1,1
+session_997,user_1069,2025-02-23 07:25:01,product_page,Desktop,USA,Direct,73,4,1
+session_3537,user_1387,2025-03-24 15:57:49,product_page,Mobile,USA,Email,144,0,1
+session_463,user_1227,2025-01-10 14:05:21,cart,Tablet,India,Direct,78,5,1
+session_1310,user_2683,2025-06-23 07:10:25,cart,Tablet,USA,Google,66,4,0
+session_3906,user_1723,2025-01-02 00:17:17,product_page,Mobile,France,Google,144,2,1
+session_2091,user_2809,2025-01-30 06:36:30,home,Desktop,India,Direct,127,0,0
+session_4221,user_1760,2025-06-25 12:18:54,product_page,Mobile,India,Social Media,79,1,0
+session_847,user_1099,2025-08-22 22:30:35,product_page,Mobile,India,Email,101,4,0
+session_2434,user_2366,2025-02-18 15:58:39,home,Tablet,Germany,Google,116,0,0
+session_2378,user_2453,2025-05-09 17:43:11,home,Tablet,USA,Social Media,41,0,0
+session_1033,user_2912,2025-04-13 11:51:59,checkout,Desktop,India,Direct,40,1,1
+session_1713,user_1087,2025-02-20 00:12:59,home,Mobile,Germany,Google,21,0,0
+session_4979,user_2308,2025-05-15 06:45:59,checkout,Tablet,USA,Social Media,178,5,1
+session_3025,user_1479,2025-08-25 16:52:28,checkout,Desktop,France,Email,165,1,1
+session_301,user_1345,2025-02-05 19:21:06,home,Desktop,India,Direct,111,0,0
+session_1940,user_1246,2025-04-20 04:04:49,cart,Desktop,Canada,Email,150,5,1
+session_3298,user_1959,2025-03-10 01:32:58,cart,Mobile,USA,Social Media,56,5,0
+session_4030,user_1790,2025-02-09 16:02:42,product_page,Mobile,India,Email,61,5,1
+session_4493,user_2282,2025-02-24 01:35:33,home,Desktop,India,Social Media,162,0,0
+session_4625,user_1280,2025-04-08 09:01:04,checkout,Tablet,Germany,Email,171,5,1
+session_4353,user_2836,2025-06-20 22:37:32,product_page,Desktop,Canada,Email,128,2,0
+session_222,user_1105,2025-01-06 06:48:30,home,Mobile,France,Email,147,0,0
+session_925,user_1731,2025-06-30 16:26:58,cart,Desktop,France,Google,102,3,1
+session_4911,user_2377,2025-01-05 14:49:43,home,Desktop,UK,Google,50,0,1
+session_342,user_2576,2025-06-04 16:36:57,home,Tablet,India,Email,31,0,0
+session_4028,user_2231,2025-08-25 02:46:01,home,Desktop,India,Social Media,128,0,0
+session_1450,user_2404,2025-04-22 23:39:34,cart,Tablet,Canada,Google,17,2,1
+session_3541,user_1559,2025-04-07 12:55:29,checkout,Tablet,Australia,Email,53,1,1
+session_4090,user_1463,2025-04-17 11:41:09,home,Tablet,India,Google,160,0,0
+session_1995,user_2285,2025-07-19 15:16:55,cart,Tablet,Germany,Social Media,92,5,1
+session_4615,user_1212,2025-05-23 20:29:22,product_page,Mobile,Canada,Email,51,0,1
+session_4504,user_1699,2025-05-19 10:00:32,product_page,Mobile,Germany,Social Media,57,3,0
+session_3117,user_2157,2025-05-23 20:40:29,checkout,Mobile,India,Direct,119,5,1
+session_4849,user_1014,2025-02-20 23:05:31,cart,Desktop,India,Social Media,170,1,1
+session_3636,user_2769,2025-06-06 12:11:02,home,Tablet,USA,Social Media,61,0,0
+session_1000,user_1551,2025-08-25 09:40:48,checkout,Mobile,France,Email,152,3,1
+session_267,user_1313,2025-04-10 05:39:20,home,Desktop,Canada,Email,22,0,0
+session_4980,user_2257,2025-06-06 21:49:50,home,Desktop,Australia,Direct,146,0,0
+session_3500,user_1970,2025-03-12 15:51:31,home,Mobile,France,Social Media,119,0,1
+session_3099,user_2526,2025-01-22 01:10:29,product_page,Desktop,France,Direct,155,0,0
+session_2791,user_1590,2025-05-05 14:45:34,checkout,Mobile,UK,Direct,24,3,1
+session_3280,user_1547,2025-01-04 01:31:02,home,Mobile,UK,Social Media,170,0,0
+session_1349,user_1957,2025-07-19 16:51:22,product_page,Tablet,USA,Google,73,0,0
+session_70,user_2567,2025-02-27 02:09:33,confirmation,Tablet,Australia,Email,29,0,1
+session_2227,user_2265,2025-03-27 07:22:20,home,Desktop,Canada,Direct,150,0,1
+session_4418,user_2706,2025-03-16 06:08:17,confirmation,Mobile,India,Google,55,0,1
+session_400,user_2011,2025-04-12 01:34:19,home,Tablet,Canada,Google,173,0,0
+session_4856,user_1475,2025-02-27 03:04:39,home,Mobile,France,Direct,133,0,0
+session_3126,user_2445,2025-02-25 06:59:53,cart,Desktop,Australia,Social Media,73,0,1
+session_2220,user_1685,2025-07-24 05:58:40,product_page,Desktop,Germany,Direct,15,0,0
+session_1226,user_1196,2025-07-29 09:50:13,confirmation,Desktop,India,Google,112,0,1
+session_1730,user_1838,2025-08-19 04:13:17,home,Desktop,UK,Email,98,0,0
+session_1805,user_1073,2025-08-20 10:14:17,home,Mobile,France,Social Media,95,0,1
+session_290,user_1345,2025-07-15 00:05:05,home,Desktop,Canada,Social Media,76,0,0
+session_4981,user_1175,2025-03-18 22:35:03,checkout,Desktop,Canada,Email,25,1,1
+session_3395,user_2999,2025-03-12 09:12:00,product_page,Mobile,India,Social Media,123,1,1
+session_3653,user_1448,2025-05-17 19:11:26,product_page,Tablet,India,Google,173,2,0
+session_4888,user_2242,2025-06-24 04:46:28,home,Mobile,Australia,Social Media,88,0,0
+session_2185,user_2121,2025-05-13 11:57:58,confirmation,Desktop,France,Direct,175,0,1
+session_4183,user_1615,2025-05-24 15:46:41,confirmation,Desktop,Canada,Social Media,94,0,1
+session_2465,user_2472,2025-08-17 05:53:47,product_page,Tablet,UK,Google,174,0,0
+session_3248,user_2680,2025-01-24 05:45:19,home,Desktop,USA,Direct,119,0,0
+session_445,user_2485,2025-07-30 06:16:18,product_page,Mobile,France,Social Media,90,0,0
+session_3434,user_2674,2025-04-19 07:15:56,home,Desktop,France,Email,107,0,0
+session_2656,user_1796,2025-07-19 05:42:28,product_page,Tablet,Australia,Email,85,2,1
+session_1852,user_1369,2025-08-10 06:40:51,product_page,Mobile,India,Google,161,0,0
+session_2452,user_1519,2025-02-11 09:34:20,product_page,Mobile,Australia,Email,54,0,1
+session_288,user_1913,2025-08-29 21:59:55,cart,Desktop,Canada,Email,96,5,0
+session_2766,user_2901,2025-06-04 15:31:07,home,Desktop,Canada,Social Media,84,0,1
+session_2543,user_1229,2025-05-27 16:45:47,cart,Tablet,Germany,Direct,58,3,0
+session_3473,user_1438,2025-01-08 08:54:48,product_page,Mobile,Canada,Social Media,45,0,0
+session_4362,user_2007,2025-06-06 00:00:54,confirmation,Desktop,Canada,Google,128,0,1
+session_371,user_2647,2025-01-07 23:13:17,home,Mobile,USA,Direct,162,0,0
+session_2030,user_2902,2025-06-17 14:59:09,product_page,Tablet,India,Email,121,2,0
+session_152,user_2321,2025-08-15 21:28:45,product_page,Tablet,Germany,Email,130,0,0
+session_699,user_1384,2025-04-20 22:41:08,home,Tablet,India,Google,29,0,0
+session_2041,user_1086,2025-06-25 00:35:16,checkout,Tablet,UK,Email,31,1,1
+session_1572,user_1748,2025-03-29 22:10:00,confirmation,Tablet,Germany,Google,78,0,1
+session_4508,user_2864,2025-03-03 08:09:34,home,Desktop,UK,Email,34,0,0
+session_1192,user_1538,2025-06-24 00:20:51,cart,Desktop,India,Google,86,5,0
+session_2950,user_1609,2025-06-12 18:48:14,product_page,Tablet,Canada,Social Media,63,5,1
+session_3133,user_2959,2025-05-31 15:05:59,checkout,Tablet,Germany,Email,27,5,1
+session_4667,user_2804,2025-04-16 00:24:12,product_page,Tablet,Germany,Google,45,5,0
+session_3733,user_2170,2025-08-13 15:16:33,product_page,Tablet,France,Google,81,1,1
+session_114,user_2803,2025-03-07 16:45:08,product_page,Mobile,Germany,Email,22,0,0
+session_2381,user_1569,2025-01-17 19:29:38,confirmation,Tablet,USA,Email,38,0,1
+session_3237,user_1760,2025-02-25 08:53:54,confirmation,Mobile,Australia,Google,82,0,1
+session_925,user_1731,2025-06-30 16:27:37,checkout,Desktop,France,Google,39,3,1
+session_2047,user_1400,2025-08-13 19:39:53,product_page,Mobile,USA,Social Media,96,1,0
+session_1730,user_1838,2025-08-19 04:15:21,product_page,Desktop,UK,Email,124,4,0
+session_1988,user_1219,2025-01-13 08:14:10,product_page,Desktop,USA,Email,46,0,0
+session_1745,user_1152,2025-07-22 15:33:59,home,Desktop,Canada,Email,15,0,0
+session_2522,user_2223,2025-01-26 23:29:30,product_page,Tablet,Canada,Google,112,3,1
+session_2292,user_1721,2025-08-16 01:24:50,product_page,Mobile,UK,Social Media,95,4,1
+session_171,user_2076,2025-03-18 19:36:04,home,Desktop,USA,Email,43,0,0
+session_1058,user_1272,2025-01-04 09:16:20,home,Tablet,UK,Social Media,48,0,0
+session_1729,user_2083,2025-08-03 18:45:18,product_page,Tablet,USA,Email,37,1,0
+session_1214,user_2091,2025-01-09 17:02:33,cart,Desktop,USA,Email,56,2,1
+session_527,user_1864,2025-01-01 12:51:56,home,Tablet,UK,Google,75,0,0
+session_3185,user_1770,2025-05-31 16:09:04,home,Desktop,India,Social Media,99,0,0
+session_1537,user_1920,2025-02-15 19:43:45,home,Tablet,UK,Direct,93,0,0
+session_4340,user_2108,2025-02-09 13:04:20,home,Tablet,Australia,Social Media,142,0,0
+session_147,user_1546,2025-08-11 06:00:33,home,Mobile,Australia,Google,141,0,1
+session_1129,user_1332,2025-08-03 12:15:26,cart,Mobile,France,Google,115,5,0
+session_1111,user_2964,2025-04-05 07:22:15,home,Desktop,Germany,Email,116,0,1
+session_2170,user_2353,2025-04-03 13:20:11,home,Mobile,UK,Direct,143,0,1
+session_1568,user_2172,2025-08-12 12:57:02,home,Desktop,Australia,Direct,132,0,0
+session_2251,user_2110,2025-04-13 17:08:33,checkout,Desktop,Canada,Direct,128,3,1
+session_617,user_1304,2025-01-08 04:55:42,cart,Tablet,India,Social Media,116,0,1
+session_4629,user_1730,2025-08-17 06:40:08,checkout,Mobile,USA,Google,19,2,1
+session_2374,user_2151,2025-03-31 06:39:27,home,Desktop,Australia,Email,24,0,0
+session_3411,user_1118,2025-04-20 18:00:49,cart,Desktop,Australia,Social Media,26,5,1
+session_1115,user_1926,2025-08-10 10:15:38,checkout,Tablet,Australia,Google,122,3,1
+session_324,user_1472,2025-01-06 09:42:54,checkout,Tablet,India,Social Media,81,3,1
+session_120,user_1976,2025-07-04 20:22:01,home,Mobile,Germany,Social Media,126,0,1
+session_983,user_1772,2025-01-11 11:48:27,checkout,Tablet,India,Google,164,3,1
+session_205,user_2037,2025-06-18 22:11:18,confirmation,Mobile,France,Social Media,45,0,1
+session_1877,user_1885,2025-06-05 20:26:10,product_page,Tablet,USA,Email,107,5,0
+session_4484,user_1053,2025-03-29 09:48:47,cart,Tablet,Canada,Social Media,153,2,1
+session_4127,user_2891,2025-07-01 12:09:43,product_page,Tablet,Australia,Direct,158,5,0
+session_2260,user_2452,2025-02-26 14:34:55,product_page,Desktop,UK,Google,15,1,0
+session_3161,user_2386,2025-07-06 08:06:34,home,Mobile,Australia,Direct,105,0,0
+session_3538,user_1358,2025-02-11 11:49:39,product_page,Tablet,Canada,Direct,84,0,0
+session_3096,user_2317,2025-02-20 01:44:18,home,Mobile,France,Google,50,0,0
+session_4139,user_1563,2025-08-13 10:44:13,product_page,Tablet,France,Social Media,175,0,0
+session_1296,user_2158,2025-02-15 01:12:42,home,Mobile,Germany,Email,173,0,0
+session_535,user_2198,2025-02-04 11:13:56,home,Mobile,USA,Social Media,85,0,1
+session_4951,user_2043,2025-01-30 03:49:34,home,Desktop,Canada,Social Media,128,0,0
+session_1649,user_2689,2025-03-16 00:33:43,home,Desktop,France,Direct,105,0,0
+session_1667,user_2193,2025-01-02 16:22:12,home,Tablet,Germany,Google,66,0,0
+session_907,user_1346,2025-07-16 00:35:25,home,Desktop,Germany,Google,66,0,0
+session_4374,user_2877,2025-03-19 09:19:00,checkout,Desktop,USA,Google,60,3,1
+session_2717,user_2686,2025-06-13 02:26:02,home,Desktop,Canada,Direct,21,0,0
+session_3149,user_1226,2025-03-21 03:08:48,product_page,Tablet,UK,Direct,28,5,1
+session_691,user_1367,2025-03-14 02:06:27,home,Desktop,Australia,Google,128,0,0
+session_4713,user_2557,2025-05-03 15:16:37,cart,Tablet,UK,Direct,16,5,1
+session_4004,user_2066,2025-06-20 04:22:32,checkout,Tablet,India,Email,62,3,1
+session_2859,user_2473,2025-05-11 18:49:07,confirmation,Mobile,Australia,Google,161,0,1
+session_1380,user_1964,2025-01-10 19:22:48,product_page,Tablet,Germany,Google,42,0,0
+session_4388,user_2520,2025-08-22 01:00:48,home,Tablet,USA,Direct,103,0,0
+session_2203,user_1041,2025-05-13 13:09:14,cart,Desktop,France,Direct,113,3,0
+session_4124,user_2367,2025-05-31 19:06:56,product_page,Mobile,UK,Email,95,0,0
+session_2457,user_2459,2025-01-23 15:12:44,home,Desktop,Australia,Email,71,0,0
+session_1588,user_1790,2025-04-27 23:12:00,product_page,Tablet,Canada,Email,139,0,0
+session_3635,user_1205,2025-05-22 13:30:21,cart,Desktop,Germany,Google,62,1,0
+session_968,user_1192,2025-07-30 06:57:24,product_page,Desktop,France,Social Media,176,0,0
+session_1611,user_2731,2025-04-26 03:50:00,product_page,Mobile,Australia,Direct,75,3,1
+session_1120,user_2661,2025-08-11 13:36:39,product_page,Mobile,UK,Email,120,0,0
+session_3216,user_2211,2025-04-03 13:16:47,product_page,Tablet,Germany,Direct,180,3,0
+session_1689,user_2425,2025-04-11 07:20:02,product_page,Tablet,USA,Social Media,53,1,0
+session_2304,user_2860,2025-04-11 16:54:25,checkout,Tablet,France,Google,57,1,1
+session_1491,user_2619,2025-06-03 23:36:30,confirmation,Desktop,France,Social Media,159,0,1
+session_2867,user_1631,2025-03-04 04:18:46,cart,Mobile,India,Direct,121,1,0
+session_3967,user_2626,2025-06-16 22:16:09,home,Mobile,Canada,Google,115,0,0
+session_351,user_2874,2025-05-09 13:29:02,home,Tablet,Australia,Direct,27,0,0
+session_3605,user_2972,2025-08-24 09:54:34,home,Tablet,UK,Social Media,28,0,0
+session_4199,user_2882,2025-03-03 02:50:21,home,Mobile,USA,Email,26,0,0
+session_1918,user_1732,2025-01-11 03:17:07,home,Desktop,Australia,Direct,50,0,0
+session_2625,user_1593,2025-02-08 00:55:33,home,Mobile,France,Email,117,0,1
+session_1584,user_2622,2025-02-13 04:16:46,product_page,Tablet,USA,Direct,74,0,1
+session_4347,user_2270,2025-06-14 12:38:02,product_page,Tablet,Canada,Social Media,58,0,1
+session_2104,user_1884,2025-03-16 05:00:31,home,Tablet,USA,Direct,124,0,0
+session_3958,user_1407,2025-01-24 00:26:41,checkout,Desktop,UK,Email,154,5,1
+session_3813,user_2644,2025-03-01 22:10:31,cart,Mobile,France,Email,119,2,1
+session_1014,user_1188,2025-03-05 17:27:39,product_page,Desktop,Germany,Social Media,142,5,0
+session_3909,user_1847,2025-02-23 23:35:40,product_page,Tablet,UK,Email,139,0,0
+session_2016,user_1659,2025-03-21 09:57:03,home,Tablet,Germany,Google,70,0,0
+session_4030,user_1790,2025-02-09 16:05:56,confirmation,Mobile,India,Email,96,0,1
+session_386,user_2318,2025-05-25 10:19:31,home,Mobile,Germany,Email,16,0,0
+session_4510,user_1783,2025-04-07 15:05:30,product_page,Desktop,Germany,Google,46,5,0
+session_3746,user_2665,2025-02-21 15:51:41,home,Desktop,France,Email,101,0,0
+session_1488,user_2726,2025-01-12 14:12:28,home,Mobile,Canada,Social Media,151,0,0
+session_1581,user_2053,2025-06-04 09:28:38,home,Desktop,USA,Direct,118,0,0
+session_3155,user_2118,2025-01-20 03:20:28,product_page,Tablet,India,Direct,20,0,0
+session_2348,user_1622,2025-02-27 05:57:12,product_page,Desktop,Australia,Direct,32,4,1
+session_2815,user_1874,2025-02-22 11:24:55,home,Tablet,Australia,Email,125,0,0
+session_3728,user_1038,2025-02-18 19:39:28,confirmation,Tablet,UK,Direct,78,0,1
+session_4521,user_1921,2025-06-23 13:54:07,cart,Desktop,USA,Direct,138,5,1
+session_1145,user_1716,2025-06-18 17:36:41,product_page,Desktop,France,Email,35,4,0
+session_1833,user_1005,2025-03-28 17:06:39,product_page,Desktop,India,Google,76,4,1
+session_4492,user_2794,2025-01-13 04:08:53,product_page,Tablet,Canada,Social Media,52,0,0
+session_1790,user_1687,2025-03-07 04:13:36,home,Mobile,UK,Email,83,0,0
+session_893,user_2719,2025-03-16 09:01:34,cart,Desktop,Australia,Google,78,3,0
+session_2107,user_1539,2025-08-14 05:13:04,product_page,Desktop,USA,Social Media,158,3,0
+session_1775,user_2434,2025-02-05 08:13:25,home,Mobile,India,Email,140,0,0
+session_2081,user_1708,2025-02-27 06:11:06,home,Mobile,Australia,Social Media,154,0,0
+session_579,user_1719,2025-01-02 01:03:59,product_page,Tablet,Canada,Social Media,17,1,0
+session_1187,user_2851,2025-01-05 04:48:08,checkout,Desktop,Germany,Email,140,4,1
+session_522,user_2538,2025-01-25 20:47:05,home,Tablet,Canada,Email,96,0,0
+session_4844,user_2697,2025-03-31 15:13:48,checkout,Tablet,USA,Direct,168,2,1
+session_3411,user_1118,2025-04-20 18:02:33,checkout,Desktop,Australia,Social Media,104,5,1
+session_4413,user_2675,2025-03-25 15:01:43,checkout,Mobile,Canada,Direct,125,3,1
+session_2768,user_1679,2025-01-19 17:59:05,home,Desktop,France,Direct,153,0,0
+session_4219,user_2112,2025-06-23 23:57:40,home,Tablet,Germany,Direct,23,0,1
+session_1345,user_1620,2025-02-11 03:55:31,home,Tablet,France,Social Media,36,0,0
+session_2119,user_2251,2025-08-19 03:17:51,checkout,Mobile,USA,Google,46,3,1
+session_3494,user_1683,2025-04-11 05:59:58,product_page,Mobile,USA,Email,172,0,0
+session_1767,user_1643,2025-07-16 09:11:10,home,Tablet,India,Social Media,47,0,0
+session_1950,user_1690,2025-04-06 10:29:34,cart,Mobile,Germany,Social Media,171,1,1
+session_4732,user_1668,2025-05-24 05:32:31,product_page,Mobile,USA,Google,61,1,1
+session_3135,user_2796,2025-07-30 12:45:40,home,Tablet,Canada,Social Media,75,0,0
+session_294,user_2547,2025-07-26 20:32:09,home,Mobile,France,Email,177,0,0
+session_1614,user_2099,2025-07-10 05:48:25,home,Mobile,Australia,Email,60,0,0
+session_3217,user_1040,2025-03-14 23:13:30,product_page,Mobile,India,Google,18,5,0
+session_2254,user_1327,2025-03-16 10:17:00,home,Tablet,France,Direct,77,0,0
+session_992,user_1847,2025-05-18 22:15:33,cart,Mobile,Australia,Google,56,4,0
+session_4682,user_2343,2025-01-30 06:06:46,home,Desktop,India,Direct,97,0,0
+session_1060,user_1617,2025-02-11 03:56:07,home,Tablet,USA,Direct,137,0,0
+session_1378,user_1638,2025-06-06 05:49:28,home,Desktop,Australia,Google,65,0,0
+session_99,user_2300,2025-08-18 05:49:00,home,Mobile,USA,Direct,118,0,1
+session_4153,user_2472,2025-04-07 06:57:41,product_page,Desktop,USA,Google,39,1,0
+session_2736,user_1962,2025-04-20 07:29:55,cart,Mobile,Canada,Social Media,48,4,0
+session_2785,user_2980,2025-02-22 21:33:09,home,Mobile,Germany,Google,111,0,0
+session_88,user_2109,2025-04-29 10:11:02,cart,Desktop,France,Social Media,18,2,0
+session_3865,user_2345,2025-06-16 06:04:16,product_page,Tablet,France,Direct,151,1,0
+session_701,user_2237,2025-05-19 00:05:39,product_page,Desktop,UK,Direct,68,0,0
+session_1199,user_2843,2025-05-03 18:50:16,product_page,Mobile,UK,Direct,64,0,0
+session_3544,user_2783,2025-06-04 03:58:34,home,Tablet,Germany,Email,67,0,0
+session_3709,user_2645,2025-07-22 11:05:47,home,Tablet,Canada,Direct,164,0,0
+session_21,user_2035,2025-02-14 06:40:39,product_page,Tablet,Australia,Google,75,5,0
+session_1642,user_2001,2025-07-11 22:33:41,home,Tablet,France,Email,102,0,0
+session_4947,user_2765,2025-04-10 02:52:00,home,Desktop,Australia,Google,128,0,0
+session_1499,user_2221,2025-06-26 17:56:00,cart,Mobile,Canada,Social Media,80,1,0
+session_901,user_2643,2025-01-14 13:20:54,home,Desktop,India,Google,178,0,0
+session_3229,user_1962,2025-04-03 13:49:32,cart,Mobile,UK,Social Media,102,3,1
+session_1542,user_2166,2025-04-20 09:43:02,home,Tablet,Canada,Email,135,0,0
+session_4878,user_2579,2025-02-06 05:03:33,home,Tablet,Australia,Social Media,104,0,0
+session_1661,user_1588,2025-01-04 06:06:40,product_page,Mobile,Canada,Google,89,3,0
+session_3501,user_2334,2025-08-02 13:39:41,product_page,Tablet,Canada,Email,103,2,0
+session_1817,user_1454,2025-05-11 19:50:30,cart,Tablet,UK,Google,149,4,1
+session_703,user_1266,2025-05-21 17:03:30,product_page,Tablet,France,Social Media,152,0,1
+session_4375,user_2926,2025-07-31 08:16:36,home,Mobile,France,Google,49,0,0
+session_3528,user_2521,2025-04-02 16:33:15,product_page,Tablet,India,Google,29,3,0
+session_1899,user_1389,2025-03-16 00:34:57,home,Tablet,Australia,Direct,74,0,1
+session_2030,user_2902,2025-06-17 14:57:08,home,Tablet,India,Email,25,0,0
+session_3424,user_2062,2025-05-31 17:03:22,home,Mobile,France,Google,81,0,0
+session_3733,user_2170,2025-08-13 15:19:21,cart,Tablet,France,Google,168,1,1
+session_2370,user_1910,2025-06-08 16:46:30,product_page,Desktop,Germany,Email,81,5,0
+session_1377,user_1779,2025-03-10 12:14:14,home,Tablet,USA,Social Media,93,0,0
+session_4348,user_2523,2025-01-10 06:43:34,product_page,Tablet,France,Social Media,152,2,0
+session_3272,user_2195,2025-08-23 02:04:47,cart,Mobile,USA,Direct,127,5,1
+session_1519,user_1246,2025-07-01 14:59:23,product_page,Mobile,France,Social Media,35,4,0
+session_250,user_2183,2025-05-25 12:10:39,confirmation,Desktop,France,Social Media,78,0,1
+session_4579,user_2393,2025-08-23 13:44:21,confirmation,Tablet,India,Google,146,0,1
+session_4455,user_2051,2025-01-15 06:00:12,home,Tablet,India,Email,109,0,0
+session_2441,user_2043,2025-06-07 17:20:43,home,Mobile,France,Email,30,0,0
+session_3079,user_1630,2025-01-13 14:25:57,product_page,Desktop,India,Social Media,113,4,0
+session_3255,user_1794,2025-03-09 22:10:31,home,Mobile,Germany,Google,174,0,0
+session_1291,user_1406,2025-03-08 18:51:26,checkout,Tablet,France,Google,100,3,1
+session_4250,user_1658,2025-01-24 02:00:02,confirmation,Tablet,USA,Google,46,0,1
+session_2302,user_2512,2025-06-09 09:40:53,home,Desktop,UK,Direct,50,0,0
+session_397,user_2848,2025-06-16 04:54:32,product_page,Desktop,UK,Direct,122,0,0
+session_3287,user_2390,2025-04-29 22:06:02,home,Desktop,UK,Direct,93,0,1
+session_3815,user_1627,2025-05-23 16:35:13,home,Desktop,Germany,Social Media,106,0,0
+session_2396,user_1224,2025-01-12 01:35:19,home,Desktop,India,Social Media,79,0,0
+session_4044,user_1584,2025-02-18 06:00:19,checkout,Mobile,Canada,Email,41,2,1
+session_622,user_2543,2025-02-12 13:27:47,home,Mobile,Australia,Social Media,25,0,0
+session_1091,user_2296,2025-05-24 22:18:18,product_page,Desktop,Canada,Email,61,4,0
+session_1640,user_1422,2025-04-20 03:21:06,cart,Desktop,India,Direct,162,3,1
+session_1219,user_2885,2025-03-24 21:31:50,product_page,Mobile,Germany,Google,37,0,0
+session_4719,user_3000,2025-04-22 23:42:48,confirmation,Desktop,Australia,Social Media,32,0,1
+session_1268,user_1183,2025-05-07 06:43:23,home,Desktop,UK,Social Media,175,0,0
+session_4433,user_1177,2025-03-11 16:47:10,product_page,Mobile,UK,Email,133,0,0
+session_3278,user_1511,2025-05-18 12:03:20,checkout,Desktop,Australia,Email,157,5,1
+session_4906,user_1072,2025-04-23 14:29:54,product_page,Mobile,India,Direct,179,0,0
+session_3420,user_1055,2025-03-27 05:15:41,cart,Tablet,Germany,Google,166,3,1
+session_3427,user_2792,2025-07-10 18:54:07,cart,Tablet,USA,Google,46,4,1
+session_43,user_1200,2025-05-04 23:24:28,home,Desktop,UK,Google,114,0,0
+session_1201,user_2032,2025-07-17 16:51:14,product_page,Desktop,UK,Google,127,0,0
+session_1051,user_1382,2025-05-17 11:07:54,checkout,Mobile,UK,Direct,17,1,1
+session_4420,user_2847,2025-08-24 01:19:26,product_page,Mobile,USA,Email,171,0,0
+session_3241,user_1051,2025-04-02 20:41:37,product_page,Tablet,Germany,Social Media,159,4,1
+session_3902,user_1275,2025-03-14 18:32:54,home,Mobile,Germany,Email,85,0,0
+session_4060,user_2117,2025-01-22 20:44:49,product_page,Tablet,UK,Direct,135,3,0
+session_138,user_2168,2025-07-19 22:57:01,checkout,Tablet,USA,Google,99,2,1
+session_63,user_2012,2025-08-14 15:16:56,confirmation,Desktop,India,Social Media,24,0,1
+session_163,user_2237,2025-02-23 19:41:44,confirmation,Mobile,France,Google,108,0,1
+session_1615,user_1041,2025-01-22 17:11:07,home,Desktop,France,Direct,16,0,0
+session_980,user_2646,2025-05-03 13:49:52,home,Tablet,USA,Social Media,93,0,0
+session_3278,user_1511,2025-05-18 11:56:59,home,Desktop,Australia,Email,78,0,1
+session_3710,user_2341,2025-07-30 16:08:12,product_page,Mobile,USA,Direct,156,1,0
+session_3625,user_1015,2025-07-01 05:29:29,home,Desktop,Canada,Email,73,0,0
+session_3317,user_1483,2025-07-24 00:03:28,cart,Tablet,Germany,Google,143,1,1
+session_321,user_1542,2025-02-08 15:01:20,product_page,Mobile,India,Google,46,3,1
+session_82,user_1453,2025-01-24 22:09:59,home,Mobile,France,Google,179,0,0
+session_4181,user_1889,2025-07-03 19:15:23,product_page,Mobile,Canada,Social Media,86,2,0
+session_885,user_2769,2025-08-14 05:21:10,home,Desktop,India,Social Media,177,0,0
+session_99,user_2300,2025-08-18 05:55:15,confirmation,Mobile,USA,Direct,169,0,1
+session_3170,user_1611,2025-08-01 03:05:48,home,Mobile,India,Direct,149,0,1
+session_71,user_2262,2025-02-03 02:48:29,checkout,Mobile,Canada,Social Media,33,3,1
+session_1817,user_1454,2025-05-11 19:48:01,product_page,Tablet,UK,Google,65,0,1
+session_1601,user_2291,2025-08-05 10:07:21,product_page,Tablet,India,Direct,24,3,0
+session_1674,user_2172,2025-04-30 18:08:25,home,Tablet,Germany,Google,48,0,0
+session_1796,user_2125,2025-06-09 09:56:52,product_page,Mobile,Australia,Email,162,3,0
+session_2111,user_1068,2025-06-19 04:00:58,home,Desktop,UK,Social Media,51,0,0
+session_795,user_2550,2025-03-07 14:26:59,product_page,Mobile,USA,Google,86,4,0
+session_2410,user_1372,2025-04-20 00:41:48,home,Tablet,France,Google,119,0,1
+session_3047,user_2499,2025-02-24 00:07:19,cart,Mobile,France,Direct,171,5,1
+session_137,user_1263,2025-03-31 15:10:01,product_page,Tablet,India,Social Media,22,0,0
+session_964,user_1064,2025-06-03 15:26:04,product_page,Tablet,India,Direct,80,0,0
+session_4562,user_1250,2025-01-24 17:15:02,home,Mobile,India,Direct,58,0,0
+session_1498,user_2473,2025-01-12 14:27:14,product_page,Mobile,Canada,Direct,76,3,0
+session_681,user_1884,2025-03-21 23:37:06,product_page,Tablet,Australia,Google,42,0,1
+session_2221,user_1367,2025-05-24 19:35:41,product_page,Mobile,India,Direct,22,0,0
+session_1555,user_2322,2025-07-21 10:22:46,product_page,Mobile,Canada,Direct,44,0,0
+session_316,user_2967,2025-02-05 13:17:36,checkout,Desktop,India,Google,168,4,1
+session_3589,user_2374,2025-01-13 20:36:29,product_page,Desktop,India,Social Media,175,0,1
+session_4250,user_1658,2025-01-24 01:59:16,checkout,Tablet,USA,Google,26,1,1
+session_678,user_1065,2025-01-18 23:01:29,home,Tablet,UK,Direct,27,0,0
+session_3461,user_2968,2025-03-22 01:14:43,cart,Desktop,France,Direct,139,2,1
+session_981,user_2230,2025-03-14 12:18:05,confirmation,Tablet,Australia,Social Media,18,0,1
+session_2145,user_1089,2025-08-10 16:56:00,product_page,Mobile,UK,Google,88,2,0
+session_2678,user_2201,2025-07-17 21:58:57,home,Mobile,France,Google,45,0,0
+session_1628,user_1715,2025-04-07 02:28:41,home,Desktop,Canada,Direct,138,0,0
+session_735,user_2226,2025-06-19 21:22:52,home,Desktop,USA,Direct,160,0,0
+session_2897,user_2596,2025-03-03 18:17:03,product_page,Mobile,USA,Email,59,5,0
+session_4238,user_1129,2025-06-16 16:14:26,home,Desktop,Germany,Social Media,90,0,1
+session_3557,user_1032,2025-03-23 12:53:58,confirmation,Desktop,UK,Social Media,121,0,1
+session_388,user_2845,2025-08-17 05:44:34,home,Desktop,France,Email,137,0,1
+session_2039,user_2487,2025-06-19 00:14:13,cart,Mobile,USA,Email,109,5,0
+session_690,user_2253,2025-05-16 11:30:44,home,Mobile,UK,Google,171,0,0
+session_384,user_2078,2025-02-28 23:59:10,home,Mobile,UK,Email,122,0,0
+session_3347,user_2225,2025-03-12 03:57:23,home,Desktop,France,Direct,152,0,0
+session_2211,user_1362,2025-06-15 19:30:54,home,Tablet,USA,Email,55,0,0
+session_3224,user_1933,2025-03-24 03:58:44,home,Mobile,Canada,Direct,145,0,0
+session_990,user_2691,2025-01-17 11:17:24,cart,Desktop,USA,Email,162,3,1
+session_2400,user_1831,2025-02-16 22:38:40,home,Desktop,Germany,Direct,175,0,0
+session_551,user_1364,2025-01-23 13:41:12,product_page,Tablet,France,Email,160,2,0
+session_2845,user_1883,2025-05-20 13:10:32,home,Desktop,Australia,Social Media,159,0,0
+session_116,user_1385,2025-08-09 08:34:48,home,Tablet,Germany,Email,162,0,0
+session_4248,user_2711,2025-06-01 17:25:03,product_page,Desktop,France,Direct,139,5,1
+session_3491,user_1863,2025-08-08 04:20:59,product_page,Desktop,Germany,Direct,140,1,0
+session_1128,user_2038,2025-06-20 23:56:43,product_page,Mobile,Canada,Direct,25,0,1
+session_1603,user_2934,2025-01-20 18:42:31,product_page,Desktop,USA,Social Media,17,2,1
+session_1298,user_1567,2025-03-03 09:40:26,cart,Mobile,Germany,Google,97,3,1
+session_4646,user_2112,2025-06-26 13:46:04,home,Desktop,Germany,Social Media,125,0,0
+session_4537,user_1770,2025-01-11 01:47:48,home,Mobile,Germany,Social Media,31,0,1
+session_3923,user_2323,2025-03-04 22:28:59,home,Desktop,Australia,Direct,53,0,0
+session_3619,user_2799,2025-02-25 00:06:54,home,Mobile,France,Social Media,51,0,1
+session_807,user_1463,2025-08-26 01:31:03,home,Desktop,India,Google,47,0,0
+session_2477,user_1293,2025-02-23 20:57:29,home,Tablet,UK,Email,70,0,1
+session_2902,user_2462,2025-04-03 08:46:36,checkout,Mobile,UK,Social Media,175,3,1
+session_2455,user_1965,2025-01-11 09:00:02,home,Desktop,UK,Social Media,97,0,0
+session_4901,user_2290,2025-05-19 10:27:32,home,Tablet,Australia,Email,19,0,0
+session_4465,user_1996,2025-02-23 13:31:43,cart,Mobile,USA,Google,179,2,1
+session_3032,user_2750,2025-08-13 21:40:53,home,Desktop,India,Email,168,0,0
+session_682,user_2951,2025-05-19 13:25:00,home,Tablet,India,Email,147,0,0
+session_1911,user_2578,2025-01-12 22:45:36,cart,Mobile,Canada,Email,41,3,0
+session_2585,user_2055,2025-08-06 08:06:02,product_page,Desktop,Germany,Social Media,33,0,0
+session_2638,user_1227,2025-04-07 14:18:19,checkout,Desktop,Canada,Social Media,43,3,1
+session_3836,user_2583,2025-01-10 12:33:20,home,Desktop,France,Direct,22,0,0
+session_2444,user_2914,2025-08-09 01:11:57,home,Tablet,Canada,Email,60,0,0
+session_3819,user_2240,2025-02-06 09:02:49,checkout,Desktop,Canada,Email,30,4,1
+session_1159,user_2007,2025-08-01 18:44:26,product_page,Mobile,Canada,Email,110,1,0
+session_2408,user_2143,2025-06-05 11:35:23,confirmation,Mobile,Canada,Social Media,154,0,1
+session_3936,user_1581,2025-04-28 06:12:43,home,Tablet,India,Direct,144,0,0
+session_651,user_2234,2025-04-25 02:57:14,home,Tablet,USA,Social Media,104,0,0
+session_3974,user_2374,2025-03-24 23:51:19,home,Tablet,USA,Direct,130,0,0
+session_3190,user_2311,2025-07-12 23:06:29,cart,Mobile,Canada,Email,153,3,1
+session_3339,user_1618,2025-05-28 06:44:30,home,Mobile,France,Email,177,0,0
+session_1029,user_1181,2025-06-03 23:29:35,home,Desktop,France,Google,168,0,0
+session_242,user_2239,2025-02-03 11:14:30,home,Desktop,UK,Email,111,0,1
+session_4034,user_2932,2025-08-09 14:48:59,product_page,Tablet,USA,Social Media,135,3,0
+session_645,user_2698,2025-01-27 11:38:45,product_page,Tablet,UK,Direct,122,2,0
+session_1779,user_1930,2025-05-12 08:38:24,product_page,Mobile,Germany,Direct,77,0,0
+session_4483,user_1366,2025-06-08 14:42:40,home,Mobile,France,Google,84,0,0
+session_2389,user_1606,2025-01-29 14:12:31,home,Tablet,Canada,Direct,55,0,0
+session_2864,user_1789,2025-02-02 00:10:44,product_page,Tablet,India,Direct,106,2,1
+session_2857,user_1665,2025-07-01 05:03:10,confirmation,Mobile,UK,Social Media,86,0,1
+session_3459,user_1403,2025-05-29 10:31:19,cart,Mobile,France,Google,89,2,0
+session_1513,user_2850,2025-08-29 04:10:53,product_page,Mobile,France,Social Media,99,0,0
+session_3705,user_2889,2025-03-18 01:04:58,product_page,Tablet,France,Direct,164,0,0
+session_639,user_2617,2025-08-15 05:45:30,home,Desktop,Australia,Social Media,177,0,0
+session_57,user_1979,2025-06-03 13:59:52,checkout,Mobile,Germany,Social Media,67,2,1
+session_2902,user_2462,2025-04-03 08:43:41,cart,Mobile,UK,Social Media,177,3,1
+session_1736,user_2678,2025-05-08 00:01:23,home,Mobile,USA,Social Media,45,0,0
+session_2609,user_2937,2025-03-21 02:49:23,home,Mobile,Germany,Social Media,171,0,0
+session_3523,user_2568,2025-07-13 14:24:52,checkout,Desktop,India,Direct,180,2,1
+session_20,user_2182,2025-03-18 04:06:06,home,Desktop,Canada,Direct,119,0,0
+session_4296,user_2521,2025-03-02 14:16:32,confirmation,Desktop,Germany,Social Media,100,0,1
+session_1238,user_2345,2025-05-01 08:21:51,product_page,Mobile,USA,Google,116,4,0
+session_37,user_1099,2025-03-21 12:20:03,home,Mobile,Australia,Direct,119,0,0
+session_524,user_1135,2025-05-28 15:04:54,product_page,Tablet,India,Email,48,5,0
+session_1822,user_1443,2025-01-24 18:18:34,cart,Tablet,France,Direct,130,2,1
+session_1175,user_2022,2025-08-08 22:03:57,home,Tablet,India,Google,177,0,1
+session_3016,user_2696,2025-01-18 16:17:24,home,Tablet,Australia,Direct,163,0,0
+session_148,user_1093,2025-05-09 12:33:09,product_page,Tablet,France,Email,24,3,1
+session_1408,user_2409,2025-01-26 10:09:14,home,Tablet,Germany,Social Media,109,0,0
+session_3360,user_2915,2025-05-12 20:16:51,cart,Desktop,Australia,Email,25,0,0
+session_2207,user_2363,2025-05-02 03:30:31,product_page,Mobile,USA,Google,176,0,0
+session_4051,user_1305,2025-05-12 05:12:43,home,Mobile,USA,Direct,43,0,0
+session_4629,user_1730,2025-08-17 06:39:49,cart,Mobile,USA,Google,106,2,1
+session_3307,user_1360,2025-07-29 08:01:02,home,Mobile,USA,Direct,153,0,0
+session_402,user_1722,2025-08-04 00:32:07,checkout,Tablet,India,Google,15,4,1
+session_2015,user_1257,2025-07-17 04:34:50,product_page,Mobile,France,Direct,31,5,0
+session_139,user_2866,2025-03-15 14:01:38,product_page,Mobile,Canada,Email,98,1,0
+session_1141,user_2636,2025-03-30 00:04:23,product_page,Tablet,USA,Email,128,0,1
+session_5,user_2216,2025-01-08 20:59:57,product_page,Desktop,UK,Email,99,0,1
+session_1333,user_1276,2025-07-16 23:13:16,product_page,Desktop,USA,Email,45,1,1
+session_1718,user_1244,2025-07-14 22:35:12,home,Mobile,Australia,Google,77,0,0
+session_328,user_2173,2025-08-17 22:04:00,product_page,Tablet,USA,Google,141,2,1
+session_3230,user_1543,2025-04-06 17:35:30,confirmation,Mobile,France,Email,75,0,1
+session_4725,user_1812,2025-01-25 12:45:08,product_page,Mobile,Canada,Direct,61,0,0
+session_566,user_1366,2025-06-02 13:04:22,confirmation,Mobile,UK,Google,129,0,1
+session_3980,user_1229,2025-07-20 18:13:59,home,Desktop,India,Social Media,135,0,0
+session_3925,user_1586,2025-03-03 09:35:47,product_page,Mobile,France,Social Media,155,0,0
+session_121,user_2762,2025-03-22 20:54:23,cart,Tablet,Germany,Email,95,1,0
+session_283,user_2964,2025-05-17 11:06:06,product_page,Mobile,Germany,Direct,166,0,0
+session_2641,user_2881,2025-08-29 00:45:35,product_page,Desktop,France,Email,177,0,0
+session_1449,user_1139,2025-05-19 14:56:39,product_page,Tablet,India,Direct,107,4,0
+session_1226,user_1196,2025-07-29 09:48:21,checkout,Desktop,India,Google,157,1,1
+session_1531,user_2222,2025-04-27 17:59:27,home,Mobile,France,Email,152,0,0
+session_1034,user_1258,2025-01-28 20:52:53,home,Desktop,Canada,Email,151,0,0
+session_1922,user_2840,2025-03-21 15:40:18,home,Mobile,India,Google,105,0,1
+session_1173,user_2145,2025-01-30 12:41:00,home,Desktop,UK,Social Media,67,0,0
+session_4780,user_1971,2025-05-26 22:50:41,product_page,Mobile,Canada,Email,19,1,0
+session_2869,user_1599,2025-06-02 01:54:57,home,Tablet,Germany,Direct,54,0,0
+session_994,user_2043,2025-06-13 09:42:54,product_page,Mobile,Germany,Direct,109,2,0
+session_1181,user_1622,2025-03-26 21:19:08,cart,Tablet,Canada,Email,127,4,1
+session_2243,user_1759,2025-05-12 01:37:45,confirmation,Mobile,UK,Email,169,0,1
+session_513,user_1422,2025-03-10 19:47:10,home,Mobile,Australia,Direct,101,0,0
+session_3247,user_1612,2025-05-30 23:37:15,home,Mobile,India,Google,169,0,0
+session_987,user_2860,2025-01-01 05:55:12,home,Desktop,USA,Email,134,0,1
+session_1739,user_2578,2025-05-01 03:12:02,home,Mobile,Australia,Social Media,170,0,0
+session_3463,user_1232,2025-04-22 03:32:48,checkout,Mobile,India,Google,134,3,1
+session_1903,user_1274,2025-05-09 21:47:56,home,Desktop,Canada,Social Media,174,0,0
+session_2899,user_1569,2025-01-27 20:16:40,home,Desktop,USA,Direct,103,0,0
+session_886,user_2008,2025-06-15 18:17:45,product_page,Tablet,Canada,Social Media,80,3,1
+session_2371,user_2602,2025-03-07 14:10:30,product_page,Tablet,Australia,Email,160,1,0
+session_1417,user_1881,2025-08-25 20:57:50,home,Mobile,India,Direct,154,0,0
+session_3618,user_1921,2025-02-19 03:30:05,home,Desktop,France,Social Media,108,0,0
+session_4066,user_2395,2025-06-19 02:47:52,home,Desktop,France,Direct,104,0,0
+session_2108,user_1933,2025-01-01 00:35:15,home,Tablet,France,Direct,98,0,1
+session_4202,user_2179,2025-04-17 08:18:26,cart,Tablet,Australia,Email,74,5,1
+session_3679,user_2775,2025-08-07 20:27:29,checkout,Mobile,France,Direct,86,1,1
+session_3360,user_2915,2025-05-12 20:16:26,product_page,Desktop,Australia,Email,43,0,0
+session_3873,user_2872,2025-05-13 09:56:50,product_page,Mobile,USA,Google,106,2,1
+session_1183,user_1977,2025-02-05 03:30:00,product_page,Mobile,UK,Social Media,171,4,0
+session_4943,user_2240,2025-06-09 13:46:54,home,Mobile,India,Google,164,0,1
+session_49,user_1439,2025-06-04 19:31:52,cart,Tablet,USA,Email,91,2,1
+session_768,user_1724,2025-04-29 00:21:00,product_page,Tablet,Canada,Email,32,4,1
+session_4813,user_2319,2025-08-01 18:18:55,checkout,Mobile,USA,Direct,59,1,1
+session_997,user_1069,2025-02-23 07:31:10,confirmation,Desktop,USA,Direct,139,0,1
+session_1481,user_1790,2025-07-22 04:37:04,product_page,Desktop,India,Email,17,0,0
+session_2318,user_2206,2025-03-29 01:39:21,product_page,Desktop,France,Google,111,2,0
+session_3303,user_1295,2025-05-25 03:04:55,home,Tablet,USA,Google,17,0,0
+session_3525,user_2708,2025-02-10 11:30:09,product_page,Mobile,Canada,Direct,87,0,0
+session_2407,user_2468,2025-02-25 20:09:44,cart,Desktop,India,Direct,163,1,1
+session_2529,user_2255,2025-05-11 14:13:05,home,Desktop,India,Social Media,53,0,0
+session_1256,user_1583,2025-06-16 10:16:11,home,Mobile,UK,Google,84,0,0
+session_4127,user_2891,2025-07-01 12:12:10,checkout,Tablet,Australia,Direct,117,5,0
+session_201,user_1028,2025-08-05 16:11:18,cart,Desktop,USA,Google,46,1,1
+session_1665,user_2664,2025-02-24 08:55:42,product_page,Desktop,UK,Google,164,0,0
+session_4070,user_2597,2025-01-07 14:00:31,checkout,Mobile,India,Direct,169,4,1
+session_4307,user_1947,2025-01-21 19:05:54,checkout,Mobile,France,Direct,82,4,1
+session_4641,user_2103,2025-04-15 15:42:38,cart,Tablet,Australia,Social Media,150,3,1
+session_1959,user_2257,2025-04-13 20:12:35,product_page,Tablet,Germany,Email,139,0,0
+session_1110,user_1534,2025-01-17 20:30:33,product_page,Mobile,USA,Social Media,102,1,1
+session_1627,user_1306,2025-05-12 04:49:10,product_page,Desktop,UK,Google,48,0,0
+session_3651,user_1765,2025-06-04 18:15:35,home,Tablet,France,Google,124,0,0
+session_3199,user_1226,2025-02-07 03:02:47,home,Tablet,UK,Email,39,0,0
+session_2536,user_2230,2025-05-30 04:05:44,product_page,Mobile,Canada,Email,82,1,1
+session_3356,user_2657,2025-04-14 10:55:17,product_page,Tablet,India,Direct,87,0,0
+session_427,user_2074,2025-08-01 23:46:04,home,Desktop,Australia,Social Media,86,0,0
+session_4923,user_1127,2025-05-03 14:23:31,home,Tablet,Canada,Google,111,0,1
+session_3457,user_2249,2025-08-27 09:19:10,home,Desktop,India,Social Media,164,0,0
+session_4521,user_1921,2025-06-23 13:48:51,home,Desktop,USA,Direct,136,0,1
+session_3532,user_2139,2025-08-16 15:39:20,home,Mobile,UK,Social Media,32,0,0
+session_3486,user_2860,2025-08-01 18:26:21,confirmation,Tablet,Canada,Email,151,0,1
+session_697,user_2126,2025-03-10 18:08:50,product_page,Mobile,Australia,Email,110,5,0
+session_1980,user_2669,2025-08-21 13:12:17,confirmation,Mobile,Germany,Google,52,0,1
+session_1348,user_1971,2025-02-11 15:04:37,home,Tablet,India,Direct,97,0,0
+session_3551,user_2491,2025-03-03 03:53:21,cart,Tablet,Australia,Google,104,2,1
+session_2045,user_2753,2025-01-15 15:06:22,product_page,Tablet,Canada,Direct,140,0,0
+session_2817,user_1351,2025-02-19 16:02:41,home,Tablet,Australia,Social Media,100,0,1
+session_2534,user_2215,2025-08-08 06:55:06,product_page,Tablet,USA,Google,136,0,0
+session_45,user_1121,2025-08-07 00:20:02,home,Mobile,USA,Google,25,0,0
+session_593,user_1118,2025-04-03 04:42:45,product_page,Desktop,India,Email,136,0,0
+session_1025,user_2874,2025-01-23 17:21:50,checkout,Tablet,Australia,Direct,36,1,1
+session_4828,user_2509,2025-06-18 14:29:49,product_page,Tablet,India,Email,128,3,1
+session_582,user_2163,2025-07-26 01:45:54,home,Desktop,USA,Direct,79,0,0
+session_3394,user_2628,2025-02-26 12:16:15,home,Mobile,Canada,Google,128,0,0
+session_1178,user_1015,2025-05-10 03:29:06,product_page,Desktop,Canada,Google,52,4,1
+session_2228,user_2312,2025-04-25 14:28:04,cart,Desktop,UK,Email,72,1,0
+session_165,user_1133,2025-01-27 08:54:26,product_page,Mobile,France,Google,35,0,0
+session_2279,user_2091,2025-02-04 05:29:35,product_page,Desktop,Germany,Direct,120,5,1
+session_800,user_1078,2025-03-19 05:18:20,home,Tablet,India,Email,77,0,0
+session_4793,user_2473,2025-08-22 09:15:13,product_page,Mobile,France,Direct,54,4,0
+session_4942,user_2265,2025-03-07 07:58:04,product_page,Desktop,UK,Email,94,3,0
+session_1765,user_1569,2025-03-15 07:47:48,cart,Mobile,Germany,Google,98,2,0
+session_4135,user_2316,2025-05-14 08:21:09,cart,Desktop,Australia,Direct,178,4,1
+session_2290,user_1862,2025-05-12 11:51:07,home,Mobile,France,Social Media,42,0,0
+session_1192,user_1538,2025-06-24 00:16:51,home,Desktop,India,Google,77,0,0
+session_2878,user_1565,2025-03-26 00:38:21,confirmation,Tablet,Germany,Direct,86,0,1
+session_46,user_2865,2025-07-11 01:55:27,home,Mobile,Germany,Social Media,80,0,0
+session_3152,user_2368,2025-03-15 09:55:06,home,Tablet,Germany,Social Media,85,0,0
+session_3601,user_2397,2025-05-20 21:19:40,product_page,Mobile,USA,Direct,142,2,0
+session_1528,user_1663,2025-01-31 22:03:49,product_page,Mobile,USA,Social Media,59,3,0
+session_1334,user_2956,2025-07-31 09:13:07,checkout,Mobile,Australia,Social Media,137,2,1
+session_1214,user_2091,2025-01-09 17:05:44,confirmation,Desktop,USA,Email,40,0,1
+session_1272,user_1324,2025-07-09 07:36:11,home,Mobile,France,Email,105,0,1
+session_2957,user_1606,2025-08-20 06:36:09,cart,Mobile,Canada,Direct,57,3,1
+session_1705,user_2196,2025-02-04 10:05:08,home,Mobile,India,Google,78,0,0
+session_1261,user_2051,2025-06-07 18:30:51,product_page,Mobile,France,Social Media,124,0,0
+session_3338,user_1170,2025-02-18 19:46:18,home,Tablet,Germany,Email,170,0,0
+session_4409,user_1450,2025-02-15 12:54:59,home,Tablet,Germany,Email,96,0,0
+session_2566,user_1929,2025-07-16 12:28:52,checkout,Desktop,Canada,Email,159,3,1
+session_4083,user_1495,2025-06-24 07:14:28,home,Desktop,Germany,Google,46,0,0
+session_2530,user_3000,2025-04-05 15:38:08,confirmation,Tablet,India,Direct,60,0,1
+session_4964,user_1828,2025-02-21 03:56:29,product_page,Tablet,France,Direct,94,1,0
+session_15,user_2270,2025-05-04 18:51:40,home,Mobile,Australia,Email,178,0,0
+session_3275,user_1439,2025-03-20 15:01:24,checkout,Desktop,Germany,Google,51,3,1
+session_779,user_1718,2025-07-04 01:35:27,home,Tablet,Germany,Google,164,0,0
+session_3766,user_1871,2025-06-15 05:30:21,product_page,Mobile,India,Google,56,0,0
+session_3749,user_2853,2025-05-26 00:14:10,product_page,Desktop,USA,Social Media,18,3,0
+session_3003,user_2466,2025-08-16 00:54:21,home,Mobile,UK,Email,86,0,0
+session_440,user_2749,2025-08-14 04:31:06,checkout,Desktop,Germany,Social Media,139,5,0
+session_4365,user_2789,2025-02-27 00:44:58,confirmation,Desktop,Australia,Email,21,0,1
+session_2121,user_3001,2025-07-14 09:25:47,home,Mobile,France,Google,51,0,1
+session_4454,user_2858,2025-07-31 04:51:28,product_page,Mobile,Canada,Google,157,0,0
+session_1785,user_1884,2025-02-22 16:44:05,product_page,Mobile,France,Google,158,5,0
+session_2146,user_2700,2025-06-03 09:42:53,home,Desktop,Australia,Social Media,46,0,0
+session_4048,user_1337,2025-03-28 08:12:24,cart,Mobile,USA,Email,24,4,0
+session_1433,user_2187,2025-06-10 21:25:03,home,Tablet,UK,Direct,62,0,1
+session_2150,user_2684,2025-03-01 13:24:55,cart,Desktop,Canada,Social Media,161,1,0
+session_1978,user_1608,2025-03-04 10:43:08,home,Mobile,India,Email,70,0,0
+session_2498,user_1585,2025-07-07 11:16:45,confirmation,Mobile,Canada,Google,78,0,1
+session_4188,user_2739,2025-03-06 23:58:09,product_page,Tablet,USA,Email,73,1,0
+session_4978,user_1225,2025-03-27 13:41:52,home,Desktop,India,Direct,161,0,0
+session_1832,user_2081,2025-07-04 02:55:51,home,Mobile,UK,Email,132,0,0
+session_802,user_1231,2025-04-16 16:13:10,checkout,Mobile,India,Direct,148,4,1
+session_648,user_2306,2025-06-05 07:26:01,product_page,Mobile,Germany,Direct,74,0,1
+session_4716,user_1104,2025-07-04 05:12:19,product_page,Tablet,Canada,Social Media,130,0,0
+session_802,user_1231,2025-04-16 16:15:55,confirmation,Mobile,India,Direct,165,0,1
+session_2807,user_1996,2025-04-28 21:04:07,product_page,Desktop,UK,Email,128,1,0
+session_355,user_1663,2025-05-27 07:47:15,checkout,Mobile,USA,Social Media,125,3,1
+session_2385,user_2997,2025-04-02 16:04:48,home,Mobile,UK,Social Media,26,0,0
+session_1609,user_2658,2025-03-27 08:41:41,product_page,Mobile,USA,Social Media,170,1,0
+session_1007,user_1010,2025-01-20 23:56:32,confirmation,Mobile,France,Social Media,117,0,1
+session_4405,user_2674,2025-06-21 13:15:19,product_page,Tablet,France,Social Media,53,0,0
+session_375,user_1752,2025-03-12 03:10:43,product_page,Mobile,USA,Social Media,111,3,0
+session_2826,user_2584,2025-02-08 14:55:20,product_page,Tablet,Australia,Email,75,4,1
+session_4328,user_2835,2025-05-20 19:08:52,product_page,Desktop,India,Email,45,0,1
+session_4413,user_2675,2025-03-25 14:59:38,cart,Mobile,Canada,Direct,34,3,1
+session_1922,user_2840,2025-03-21 15:43:26,cart,Mobile,India,Google,60,2,1
+session_2468,user_2733,2025-06-07 04:17:50,checkout,Desktop,Canada,Email,47,4,1
+session_3386,user_1733,2025-06-22 13:35:57,cart,Tablet,UK,Email,20,3,1
+session_368,user_2339,2025-03-30 03:22:54,home,Tablet,France,Email,100,0,0
+session_1849,user_1946,2025-06-19 03:05:30,home,Mobile,UK,Email,123,0,0
+session_4563,user_1942,2025-04-03 06:54:11,product_page,Desktop,UK,Direct,62,2,0
+session_3045,user_2328,2025-06-15 00:16:01,product_page,Tablet,USA,Email,83,4,1
+session_4575,user_1985,2025-05-04 20:24:09,confirmation,Desktop,USA,Google,53,0,1
+session_415,user_1293,2025-05-10 22:22:19,home,Tablet,France,Email,17,0,0
+session_3311,user_1460,2025-06-18 05:13:19,home,Tablet,India,Google,166,0,0
+session_4771,user_1885,2025-05-14 17:16:53,confirmation,Desktop,Germany,Google,146,0,1
+session_3920,user_2793,2025-05-22 18:01:32,cart,Tablet,USA,Google,108,0,1
+session_1403,user_2039,2025-02-19 06:57:48,home,Mobile,Canada,Google,174,0,0
+session_3394,user_2628,2025-02-26 12:18:16,product_page,Mobile,Canada,Google,121,5,0
+session_3890,user_1991,2025-08-08 16:28:02,checkout,Tablet,India,Social Media,49,5,1
+session_3759,user_1020,2025-05-20 11:52:44,checkout,Desktop,UK,Email,93,1,1
+session_3869,user_1474,2025-04-24 11:21:12,product_page,Desktop,Germany,Direct,163,5,0
+session_1213,user_1641,2025-03-17 22:50:53,cart,Tablet,USA,Email,115,4,1
+session_636,user_2020,2025-04-16 19:02:10,cart,Desktop,France,Direct,128,0,0
+session_429,user_1963,2025-01-14 17:14:53,product_page,Tablet,USA,Direct,114,0,0
+session_1128,user_2038,2025-06-20 23:59:18,cart,Mobile,Canada,Direct,155,0,1
+session_3230,user_1543,2025-04-06 17:33:51,cart,Mobile,France,Email,129,4,1
+session_2695,user_1049,2025-06-17 09:29:33,cart,Desktop,Germany,Direct,145,2,1
+session_3413,user_1714,2025-02-21 08:43:15,product_page,Tablet,Canada,Google,68,4,0
+session_4207,user_2068,2025-08-05 13:10:10,home,Desktop,USA,Google,157,0,0
+session_2075,user_2031,2025-02-09 20:08:51,product_page,Tablet,USA,Direct,155,4,0
+session_4392,user_1620,2025-05-08 21:47:56,home,Mobile,France,Direct,159,0,1
+session_89,user_1300,2025-03-21 17:24:26,cart,Mobile,France,Direct,153,1,1
+session_2741,user_1961,2025-06-02 14:07:13,home,Mobile,Germany,Email,111,0,0
